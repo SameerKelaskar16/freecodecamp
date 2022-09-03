@@ -4,6 +4,6 @@ This is a readme file.
 
 This is first change.
 
-This is second change.
+The second change is removed.
 
 This is first change.
